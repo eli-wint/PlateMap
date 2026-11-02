@@ -1,2 +1,4 @@
 # PlateMap
-Index of all liscence plates in the USA
+Index of all licence plates in the USA
+
+Credit for all license plate images: jonkeegan, https://github.com/jonkeegan/us-license-plates
